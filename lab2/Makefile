@@ -7,10 +7,10 @@ AS_FLAGS = -g
 LD_FLAGS = -g -static
 
 
-SRCS = lab3.s
+SRCS = lab2.s
 OBJS = $(SRCS:.s=.o)
 
-EXE = lab3
+EXE = lab2
 
 
 

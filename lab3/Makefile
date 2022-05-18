@@ -7,10 +7,10 @@ AS_FLAGS = -g
 LD_FLAGS = -g -static
 
 
-SRCS = prog4.s
+SRCS = prog3.s
 OBJS = $(SRCS:.s=.o)
 
-EXE = prog4
+EXE = prog3
 
 
 
